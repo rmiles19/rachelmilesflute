@@ -2,12 +2,11 @@
 title: Audio-video
 featured_image: /images/demo/demo-square.jpg
 ---
-# Rachel Miles Bio
+# Audio
+<iframe width="33%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/526317087&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="33%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/526316460&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-![](/images/grass1.jpg)
+# Video
 
-Rachel Miles is an accomplished and experienced musician based out of Salt Lake City, Utah. She started studying the flute at age 9 under the tutelage of Jane Wadsworth, then received her Bachelor's degree in Flute Performance from Brigham Young University under Dr. April Clayton. She then received her Master's degree in Flute Performance from the University of Utah, studying with professors Lisa Byrnes and Caitlyn Moore of the Utah Symphony. 
-
-Rachel maintains a teaching studio out of her home in Salt Lake, while participating in local studio work and performances. 
-
-<a href="/resume" class="button ">See Resume</a> <a href="/repertoire" class="button">See Repertoire</a>
+<iframe width="280" height="157.5" src="https://www.youtube.com/embed/vTfMbEute9k" frameborder="0" webkitallowfullscreen mozallowfullscreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="157.5" src="https://www.youtube.com/embed/znx04ORK2_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
