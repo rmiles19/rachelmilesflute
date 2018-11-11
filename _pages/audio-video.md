@@ -1,6 +1,6 @@
 ---
 title: Audio-video
-featured_image: /images/demo/demo-square.jpg
+featured_image: /images/studio.jpg
 ---
 # Audio
 <br/>

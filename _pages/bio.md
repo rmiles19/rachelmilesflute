@@ -1,6 +1,6 @@
 ---
 title: Bio
-featured_image: /images/demo/demo-square.jpg
+featured_image: /images/sheetmusic/dutilleux.jpg
 ---
 ![](/images/black/blackandgreen1.jpg)
 
