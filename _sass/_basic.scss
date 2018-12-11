@@ -430,3 +430,10 @@ section {
 		
 	}
 }
+
+//- - - - - - - - - - - - - - Video size -----
+
+.column-wrap { float: left; clear: both; width: 100%; }
+.column-wrap__column { float: left; width: 50%; padding: 0 20px; }
+
+body[data-page-url="/"] .footer { display: none; }

@@ -2,7 +2,7 @@
 title: Teaching
 featured_image: /images/sheetmusic/siciliano.jpg
 ---
-![](/images/red/grassfar1.jpg)
+![](/images/red/grassfar2.jpg)
 
 Now accepting a small number of highly motivated individuals of all ages for weekly or bi-monthly lessons. Rachel teaches her lessons out of her home in Midvale, Utah and has experience teaching students ages 9-75.
 
